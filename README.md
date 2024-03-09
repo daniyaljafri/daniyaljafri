@@ -18,9 +18,9 @@
 
 <a> 
     <a href="https://github.com/daniyaljafri" align="left">
-        <img alt="anatonamikaza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daniyaljafri&show_icons=true&count_private=true&theme=transparent" width="48.5%"/>
+        <img alt="daniyals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daniyaljafri&show_icons=true&count_private=true&theme=transparent" width="48.5%"/>
     </a>
-    <a href="https://github.com/anatonamikaza" align="right">
+    <a href="https://github.com/daniyaljafri" align="right">
         <img alt="daniyal's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daniyaljafri&show_icons=true&count_private=true&theme=transparent" width="51%" />
     </a>
 </a>
@@ -29,7 +29,7 @@
 <br>
 <a> 
     <a href="https://github.com/daniyaljafri align="right">
-        <img alt="daniyals's GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anatonamikaza&theme=transparent" width="80%" />
+        <img alt="daniyals's GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniyaljafri&theme=transparent" width="80%" />
     </a>
     <a href="https://github.com/daniyaljafri" align="left">
         <img alt="Globe" src="https://static.wixstatic.com/media/52841c_2bd790b6a82645d7beba97a66687cb3d.gif" width="19%">
@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://github.com/daniyaljafri">
-    <img align="center" alt="anatonamikaza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaljafri&layout=donut-vertical&theme=transparent&langs_count=16" width="25%"/>
+    <img align="center" alt="daniyal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaljafri&layout=donut-vertical&theme=transparent&langs_count=16" width="25%"/>
   </a>
 </p>
 
